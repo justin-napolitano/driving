@@ -4,7 +4,7 @@ author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
 date = "2024-07-05"
-categories = ["Personal"]
+categories = ["procedures"]
 +++
 
 
