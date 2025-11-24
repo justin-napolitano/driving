@@ -19,6 +19,14 @@ seoSecondaryKeywords:
   - driver decision-making
   - vehicle preservation
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 0.85
+topicFamilyNotes: >-
+  The post is about a conceptual framework for safe and efficient driving, and the 'climbing' family
+  includes 'github-driving' and related outdoor and gear routines. Although the content is
+  technical, it discusses practical safety and efficiency in driving, matching the 'driving' and
+  outdoor-related themes in this family. Other families (automation, datascience, devtools) do not
+  match the focus on driving safety and practical real-world procedures.
 ---
 
 # Driving Win-Set: A Conceptual Framework for Safe and Efficient Driving
@@ -69,3 +77,4 @@ Potential expansions include:
 ## Conclusion
 
 This project serves as a reference for understanding and documenting a structured approach to driving safety and efficiency. It is intended for engineers and developers interested in the intersection of human factors, environmental context, and procedural modeling in driving scenarios.
+
