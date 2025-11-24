@@ -1,12 +1,25 @@
 ---
-slug: "github-driving"
-title: "driving"
-repo: "justin-napolitano/driving"
-githubUrl: "https://github.com/justin-napolitano/driving"
-generatedAt: "2025-11-23T08:52:39.433739Z"
-source: "github-auto"
+slug: github-driving
+title: Driving Win-Set Framework for Safe and Efficient Driving
+repo: justin-napolitano/driving
+githubUrl: https://github.com/justin-napolitano/driving
+generatedAt: '2025-11-23T08:52:39.433739Z'
+source: github-auto
+summary: >-
+  Documentation of a conceptual framework defining a driving win-set to balance safety, legal
+  compliance, vehicle preservation, and efficiency.
+tags:
+  - driving
+  - safety
+  - conceptual-framework
+  - vehicle-efficiency
+seoPrimaryKeyword: driving win-set
+seoSecondaryKeywords:
+  - driving safety
+  - driver decision-making
+  - vehicle preservation
+seoOptimized: true
 ---
-
 
 # Driving Win-Set: A Conceptual Framework for Safe and Efficient Driving
 
