@@ -1,7 +1,7 @@
 ---
 slug: github-driving
 id: github-driving
-title: 'Driving Safety and Efficiency: A Conceptual Framework'
+title: Driving Safety and Efficiency Framework Documentation
 repo: justin-napolitano/driving
 githubUrl: https://github.com/justin-napolitano/driving
 generatedAt: '2025-11-24T21:34:35.213Z'
@@ -17,11 +17,10 @@ tags:
   - conceptual modeling
 seoPrimaryKeyword: driving safety framework
 seoSecondaryKeywords:
-  - driving efficiency
-  - risk avoidance strategies
-  - legal compliance in driving
-  - environmental factors in driving
-  - personal knowledge base
+  - risk avoidance in driving
+  - driving efficiency concepts
+  - markdown documentation
+  - vehicle preservation strategies
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
