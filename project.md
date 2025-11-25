@@ -1,21 +1,28 @@
 ---
 slug: github-driving
 id: github-driving
-title: Driving Win-Set
+title: 'Driving Safety and Efficiency: A Conceptual Framework'
 repo: justin-napolitano/driving
 githubUrl: https://github.com/justin-napolitano/driving
 generatedAt: '2025-11-24T21:34:35.213Z'
 source: github-auto
 summary: >-
-  This repository contains a conceptual exploration and procedural outline
-  regarding driving safety and efficiency, framed as a "win-set" of goals and
-  actions. It captures the author's personal framework for navigating the
-  complexities of driving with an emphasis on minimizing risk, legal compliance,
-  and vehicle preservation.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a structured approach to driving safety, focusing on risk management
+  and legal compliance through a conceptual framework.
+tags:
+  - markdown
+  - driving safety
+  - risk management
+  - documentation
+  - conceptual modeling
+seoPrimaryKeyword: driving safety framework
+seoSecondaryKeywords:
+  - driving efficiency
+  - risk avoidance strategies
+  - legal compliance in driving
+  - environmental factors in driving
+  - personal knowledge base
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
