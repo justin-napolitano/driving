@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/driving
 generatedAt: '2025-11-24T21:34:35.213Z'
 source: github-auto
 summary: >-
-  Explore a structured approach to driving safety, focusing on risk management
-  and legal compliance through a conceptual framework.
+  Explore a structured approach to driving safety, focusing on risk management and legal compliance
+  through a conceptual framework.
 tags:
   - markdown
   - driving safety
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - markdown documentation
   - vehicle preservation strategies
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -72,3 +72,4 @@ code driving/index.md  # or any Markdown viewer
 ---
 
 *Note: This repository currently serves as a personal knowledge base rather than a software project.*
+
