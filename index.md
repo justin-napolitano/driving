@@ -6,27 +6,37 @@ githubUrl: https://github.com/justin-napolitano/driving
 generatedAt: '2025-11-23T08:52:39.433739Z'
 source: github-auto
 summary: >-
-  Documentation of a conceptual framework defining a driving win-set to balance safety, legal
-  compliance, vehicle preservation, and efficiency.
+  Explore a structured approach to balancing safety, efficiency, and legal
+  compliance in driving through the Driving Win-Set framework.
 tags:
   - driving
   - safety
   - conceptual-framework
   - vehicle-efficiency
-seoPrimaryKeyword: driving win-set
-seoSecondaryKeywords:
   - driving safety
-  - driver decision-making
-  - vehicle preservation
+  - decision-making
+  - sensor integration
+  - predictive modeling
+  - human factors
+seoPrimaryKeyword: driving win-set framework
+seoSecondaryKeywords:
+  - safe driving strategies
+  - driving efficiency
+  - risk assessment in driving
+  - vehicle safety models
+  - temporal decision-making
 seoOptimized: true
 topicFamily: climbing
 topicFamilyConfidence: 0.85
 topicFamilyNotes: >-
-  The post is about a conceptual framework for safe and efficient driving, and the 'climbing' family
-  includes 'github-driving' and related outdoor and gear routines. Although the content is
-  technical, it discusses practical safety and efficiency in driving, matching the 'driving' and
-  outdoor-related themes in this family. Other families (automation, datascience, devtools) do not
-  match the focus on driving safety and practical real-world procedures.
+  The post is about a conceptual framework for safe and efficient driving, and
+  the 'climbing' family includes 'github-driving' and related outdoor and gear
+  routines. Although the content is technical, it discusses practical safety and
+  efficiency in driving, matching the 'driving' and outdoor-related themes in
+  this family. Other families (automation, datascience, devtools) do not match
+  the focus on driving safety and practical real-world procedures.
+kind: project
+id: github-driving
 ---
 
 # Driving Win-Set: A Conceptual Framework for Safe and Efficient Driving
